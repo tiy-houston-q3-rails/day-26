@@ -3,9 +3,11 @@ Day 26 Homework
 
 
 Topics Discussed:
-* How to go to Devise
-* How to publish to Heroku
+* [How to publish to Heroku](http://tiy-houston-q3-rails.github.io/notes/heroku.html)
+* [How to Devise](http://tiy-houston-q3-rails.github.io/notes/devise.html)
 
+
+Sample Week4 (heroku + devise): http://week4-htown-tiya-q3.herokuapp.com/
 
 Homework:
 -----------
